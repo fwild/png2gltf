@@ -1,6 +1,6 @@
 # png2gltf
 
-> NOTE!
+> [!NOTE]  
 > Nifty little commandline tool for converting flat png images to 3D objects (circle/triangle/rectangle signs) using bash, python, and blender
 
 Author: Prof Dr Fridolin Wild (f.wild@open.ac.uk)
