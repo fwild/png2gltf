@@ -8,9 +8,9 @@ This commandline script converts ISO 7010 warnings signs stored as PNG into gltf
 
 To run:
 
-1. chmod u+x BuildObjFromImage.sh
-2. set the template, outimage, and blenderfile in BuildObjFromImage.sh
+1. `chmod u+x BuildObjFromImage.sh`
+2. set the `template`, `outimage`, and `blenderfile` in BuildObjFromImage.sh
 3. the templates are: "triangle_template3.png", "cube_template.png"
 4. outimage is always "Cube.png"
 5. blenderfiles are: "triangle.blend", "shield.blend", "cube.blend"
-2. ./BuildObjFromImage.sh pngs/W*.png 
+2. `./BuildObjFromImage.sh pngs/*.png` 
