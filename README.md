@@ -4,8 +4,7 @@ Nifty little commandline tool for converting flat png images to 3D objects (circ
 
 Author: Prof Dr Fridolin Wild (f.wild@open.ac.uk)
 
-![image](https://github.com/fwild/png2gltf/assets/183296/44ef00d2-73cd-4ce1-b632-475ed70b4c8d)
-
+![image](https://github.com/fwild/png2gltf/assets/183296/3afbf566-2d01-4d4e-80c7-d93a8a31ed39)
 
 This commandline script converts ISO 7010 warnings signs stored as PNG into gltf files using a blender project template for each shape type (circle, triangle, rectangle). The script first loads and places the iso sign into an according texture template to then exchange the material in the blender project file using code, before exporting it as gltf.
 
